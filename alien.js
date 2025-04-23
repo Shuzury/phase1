@@ -65,7 +65,7 @@ document.getElementById('verify-human-btn').addEventListener('click', function()
   
   // After animation, redirect to the birthday page
   setTimeout(() => {
-    window.location.href = 'https://www.youtube.com/'; // Redirect to the original birthday page
+    window.location.href = 'https://shuzury.github.io/phase2/'; // Redirect to the original birthday page
   }, 500);
 });
 
